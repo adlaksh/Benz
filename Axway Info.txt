@@ -1,0 +1,1 @@
+this is the Axway ST to CFT configuration
